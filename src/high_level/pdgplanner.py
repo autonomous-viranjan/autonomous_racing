@@ -1,6 +1,6 @@
 #########################################
 # Viranjan Bhattacharyya
-# EMC2 Lab Clemson, Nov 2022
+# Nov 2022
 #########################################
 
 import numpy as np
